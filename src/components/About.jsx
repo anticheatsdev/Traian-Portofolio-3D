@@ -49,8 +49,6 @@ const About = () => {
       >
        Hello, I'm Traian and I'm a proficient software developer with a wealth of experience in TypeScript and JavaScript, and an expertise in frameworks such as React, Node.js, 
        and Three.js. I pride myself on my ability to learn quickly, adapt easily to new environments and work closely with clients to provide them with efficient, scalable and user-friendly solutions that address real-world issues.
-       I am passionate about what I do and believe in the transformative power of technology to make a positive impact on people's lives. 
-       Whether you are looking to build a new website, develop an application, or enhance your existing digital solutions, I am here to help.
        My focus is on creating solutions that are tailored to your specific needs and requirements, while keeping in mind the end-user experience. 
        I believe that good communication is key to successful collaboration, and I strive to build strong relationships with my clients.
        So, if you are looking for a skilled and dedicated developer to help you bring your ideas to life, look no further. 
