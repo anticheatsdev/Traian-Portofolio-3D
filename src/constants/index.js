@@ -172,7 +172,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Traian is an exceptional FullStackDeveloper, with deep knowledge in front-end and back-end technologies. He delivers projects on time and to the highest standards.",
+      "Traian is an exceptional FullStackDeveloper, with deep knowledge in front-end and back-end technologies.",
     name: "Miron Cezar",
     designation: "CFO",
     company: "Acme Co",
@@ -180,7 +180,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Working with Traian on a complex web development project was a pleasure. His technical expertise and attention to detail were outstanding. He provides creative solutions to difficult challenges.",
+      "Working with Traian on a complex web development project was a pleasure. His technical expertise and attention to detail were outstanding.",
     name: "Lucian Duca",
     designation: "COO",
     company: "DEF Corp",
